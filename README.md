@@ -18,4 +18,4 @@ Training Platform: Kaggle Notebook
 ### Files
 
 - `swin-s-architecture.ipynb` — notebook describing the Swin-S architecture
-- `ham10000-swin-s-training.ipynb` — training notebook for HAM10000 dataset
+- `ham10000-swin-s-training.ipynb` — includes exploratory data analysis (EDA), preprocessing, and training of the Swin-S model on the HAM10000 dataset.
